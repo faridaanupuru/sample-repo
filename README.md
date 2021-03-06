@@ -1,6 +1,6 @@
 # sample-repository of our APSSDC-CBIT-GPET
 # sample-repository of our APSSDC-CBIT-GPET
-###Sample-repository of our APSSDC-CBIT-GPET 
+### Sample-repository of our APSSDC-CBIT-GPET 
 THIS IS ANOTHER MODEL OF THE REPOSITORY
 * ORDERED LIST
 *  CBIT-org
@@ -24,13 +24,13 @@ THIS IS ANOTHER MODEL OF THE REPOSITORY
           2. MCA
           3. MTECH
    * UNORDERD LIST
-   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   --------------------------------------------------------------
    * APSSDC
-   - python
-      - ML(MACHINE LEARNING)
-      - DATA SCIENCES(DS)
+     - python
+          - ML(MACHINE LEARNING)
+          - DATA SCIENCES(DS)
     - ANDROID
     - PRODUCTIVITY ENHANCEMENT TOOLS
     - IOT
     - EMBEDED SYSTEM
-    - DIJANG
+    - DIJANGO
